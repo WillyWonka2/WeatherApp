@@ -4,7 +4,8 @@
 
 # Xcode
 #
-src/services
+services/
+android/
 
 build/
 *.pbxuser
